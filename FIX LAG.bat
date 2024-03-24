@@ -1,0 +1,1 @@
+scrcpy -m1280 -b12m --no-control --render-expired-frames --max-fps 60 --prefer-text
